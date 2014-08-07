@@ -1,4 +1,5 @@
-**Zenix**
+Zenix
+=====
 
 Fast and ultra-compact web server with Lua scripting based on Nginx.
 
@@ -10,7 +11,8 @@ Zenix is smaller than Openresty, even with LuaJIT included (8MB and 1.7MB compre
 
 I don't know man I'm tired.. I'll get back to write something more.
 
-**How to install**
+How to install
+==============
 
 Untar if necessary. Cd to the folder and type **./install** in your command line, then enter.
 
